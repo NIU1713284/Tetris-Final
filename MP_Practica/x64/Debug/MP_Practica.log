@@ -1,0 +1,7 @@
+﻿  Joc.cpp
+  TetrisFinal.cpp
+C:\Users\theki\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.h(37,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\theki\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.h(40,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\theki\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\TetrisFinal.cpp(61,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+C:\Users\theki\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Joc.cpp(125,1): error C4700: se utilizó la variable local 'numFil' sin inicializar
